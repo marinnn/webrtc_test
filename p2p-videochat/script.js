@@ -2,7 +2,7 @@
 $(function() {
   // Peer object
   const peer = new Peer({
-    key:  '521010af-4489-451a-85a6-8538b55cf50c',
+    key:  '',
     debug: 3,
   });
 
