@@ -2,7 +2,7 @@
 $(function() {
   // Peer object
   const peer = new Peer({
-    key:   window.__SKYWAY_KEY__,
+    key:  521010af-4489-451a-85a6-8538b55cf50c,
     debug: 3,
   });
 
